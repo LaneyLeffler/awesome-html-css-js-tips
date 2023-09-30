@@ -1,4 +1,4 @@
-# Awesome HTML Tips ![Awesome][awesome-badge]
+* Awesome HTML Tips ![Awesome][awesome-badge]
 
 #### Contents
 
@@ -113,3 +113,4 @@ You can use the `details` element to create native HTML accordion.
 ```html
 <meta http-equiv="refresh" content="value(seconds)">
 ```
+ 
