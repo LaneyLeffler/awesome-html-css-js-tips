@@ -1,10 +1,10 @@
-# Thank you! ❤️
+! Thank you# ❤️
 
 Thank you for contributing to our awesome tips.
 
 ## Guidelines
 
-- **One item** per Pull Request.
+- #*One item** per Pull Request.
 
 - Pull request should include a title which describes the tip, an optional short description, code and an optional link to the codepen.
 
@@ -39,3 +39,4 @@ You can use `<fieldset>` element to group several controls as well as labels (`<
 - Don't open issues with new tips, open a PR instead.
 
 ## Thank you! ❤️
+ 
